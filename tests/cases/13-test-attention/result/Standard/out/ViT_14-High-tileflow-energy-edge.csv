@@ -1,0 +1,100 @@
+metric,value
+Cycle,1310720
+Energy,1.45579e+09
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 327680
+L2::Fill::O, 0
+L2::Read, 1.31072e+06
+L2::Read::K, 327680
+L2::Fill::C, 0
+L2::Write::O, 327680
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 3.2768e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 327680
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 327680
+L2::Write, 327680
+L2::Accesses, 1.6384e+06
+L2::Update::Q, 0
+L2::CapUtil, 1.6e-06
+L2::Read::Q, 327680
+L2::Update::C, 0
+L2::Update::O, 327680
+L1::Write::V, 163840
+L1::Update::V, 0
+L1::Fill::V, 163840
+L1::Read::V, 5.24288e+06
+L1::Fill::O, 81920
+L1::Read, 2.09715e+07
+L1::Read::K, 5.24288e+06
+L1::Fill::C, 0
+L1::Write::O, 5.3248e+06
+L1::Read::C, 0
+L1::SpatialUtil, 0.5
+L1::Energy, 2.23847e+08
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 5.24288e+06
+L1::Fill::K, 163840
+L1::Fill, 491520
+L1::Write::K, 163840
+L1::Fill::Q, 81920
+L1::Write::Q, 81920
+L1::Write::C, 0
+L1::Read::O, 5.24288e+06
+L1::Write, 5.7344e+06
+L1::Accesses, 5.34118e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.46875
+L1::Read::Q, 5.24288e+06
+L1::Update::C, 0
+L1::Update::O, 5.24288e+06
+mac::Energy, 1.67772e+08
+mac::Flops, 1.67772e+08
+L0::Write::V, 163836
+L0::Update::V, 0
+L0::Fill::V, 163836
+L0::Read::V, 655360
+L0::Fill::O, 163836
+L0::Read, 3.93216e+06
+L0::Read::K, 655360
+L0::Fill::C, 0
+L0::Write::O, 819196
+L0::Read::C, 1.31072e+06
+L0::SpatialUtil, 0.125
+L0::Energy, 7.36495e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 1.31072e+06
+L0::Fill::K, 163836
+L0::Fill, 655344
+L0::Write::K, 163836
+L0::Fill::Q, 163836
+L0::Write::Q, 163836
+L0::Write::C, 655360
+L0::Read::O, 655360
+L0::Write, 1.96606e+06
+L0::Accesses, 7.54973e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.0625
+L0::Read::Q, 655360
+L0::Update::C, 655360
+L0::Update::O, 655360
+MEM::L0,0.5
+MEM::L0,0.5
+MEM::L1,0.9375
+MEM::L2,1.6e-06
+SPATIAL::L1,0.25
+SPATIAL::L1,0.25
+SPATIAL::L1,0.00390625
+SPATIAL::L2,0.5

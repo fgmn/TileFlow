@@ -1,0 +1,5 @@
+architecture,no-fuse,chimera,pipeline,flash-attention,flat,tileflow
+cloud-4X4,9e-07,7.2e-07,7.2e-07,7.2e-07,7.2e-07,7.2e-07
+cloud-12X14,9e-07,,7.2e-07,7.2e-07,7.2e-07,7.2e-07
+cloud-16X16,9e-07,,7.2e-07,7.2e-07,7.2e-07,7.2e-07
+cloud-32X32,9e-07,7.2e-07,7.2e-07,,7.2e-07,7.2e-07

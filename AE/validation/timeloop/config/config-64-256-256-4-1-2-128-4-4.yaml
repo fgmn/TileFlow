@@ -1,0 +1,13 @@
+
+output: /tmp/_tmp-24.csv
+verbose: 0
+macro:
+    M: 64
+    N: 256
+    K: 256
+    MO: 4
+    MM: 1
+    NO: 2
+    NI: 128
+    KO: 4
+    KM: 4        

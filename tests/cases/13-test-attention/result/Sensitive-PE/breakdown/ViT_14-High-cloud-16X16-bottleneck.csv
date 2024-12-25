@@ -1,0 +1,7 @@
+dataflow,L0::SlowDown,L1::SlowDown,L2::SlowDown,bottleNeck
+chimera,1.0,2.80078,1.0,1
+flash-attention,1.0,1.28003,1.21951,1
+flat,1.0,1.84004,1.0,1
+no-fuse,1.0,1.28008,2.03125,2
+pipeline,1.0,1.92002,1.0,1
+tileflow,1.0,1.0,3.33333,2

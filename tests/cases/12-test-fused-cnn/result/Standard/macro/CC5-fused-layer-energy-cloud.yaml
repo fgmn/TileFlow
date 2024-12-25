@@ -1,0 +1,19 @@
+
+macro:
+  B: 1
+  H: 224 
+  W: 224 
+  C: 16 
+  L: 64
+  K: 16
+  R: 3
+  S: 3
+  U: 1
+  V: 1      
+output: result/Standard/out/CC5-fused-layer-energy-cloud
+tileflow-mapper:
+  timeout: 600
+  objective: energy
+verbose: 1
+check: 
+    loopcount: False

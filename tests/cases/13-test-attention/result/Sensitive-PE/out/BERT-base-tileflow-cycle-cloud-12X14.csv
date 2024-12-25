@@ -1,0 +1,100 @@
+metric,value
+Cycle,1572864
+Energy,1.56745e+10
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 393216
+L2::Fill::O, 0
+L2::Read, 1.57286e+06
+L2::Read::K, 393216
+L2::Fill::C, 0
+L2::Write::O, 393216
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 3.93216e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 393216
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 393216
+L2::Write, 393216
+L2::Accesses, 1.96608e+06
+L2::Update::Q, 0
+L2::CapUtil, 1.92e-06
+L2::Read::Q, 393216
+L2::Update::C, 0
+L2::Update::O, 393216
+L1::Write::V, 196608
+L1::Update::V, 0
+L1::Fill::V, 196608
+L1::Read::V, 6.29146e+06
+L1::Fill::O, 98304
+L1::Read, 2.51658e+07
+L1::Read::K, 6.29146e+06
+L1::Fill::C, 0
+L1::Write::O, 6.38976e+06
+L1::Read::C, 0
+L1::SpatialUtil, 1
+L1::Energy, 1.30082e+10
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 6.29146e+06
+L1::Fill::K, 196608
+L1::Fill, 589824
+L1::Write::K, 196608
+L1::Fill::Q, 98304
+L1::Write::Q, 98304
+L1::Write::C, 0
+L1::Read::O, 6.29146e+06
+L1::Write, 6.88128e+06
+L1::Accesses, 1.28188e+08
+L1::Update::Q, 0
+L1::CapUtil, 0.408
+L1::Read::Q, 6.29146e+06
+L1::Update::C, 0
+L1::Update::O, 6.29146e+06
+mac::Energy, 4.02653e+08
+mac::Flops, 4.02653e+08
+L0::Write::V, 299591
+L0::Update::V, 0
+L0::Fill::V, 299591
+L0::Read::V, 786432
+L0::Fill::O, 299591
+L0::Read, 4.71859e+06
+L0::Read::K, 786432
+L0::Fill::C, 0
+L0::Write::O, 1.08602e+06
+L0::Read::C, 1.57286e+06
+L0::SpatialUtil, 0.380952
+L0::Energy, 1.87044e+09
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 1.57286e+06
+L0::Fill::K, 299591
+L0::Fill, 1.19836e+06
+L0::Write::K, 299591
+L0::Fill::Q, 299591
+L0::Write::Q, 299591
+L0::Write::C, 786432
+L0::Read::O, 786432
+L0::Write, 2.77123e+06
+L0::Accesses, 1.91739e+09
+L0::Update::Q, 0
+L0::CapUtil, 0.190476
+L0::Read::Q, 786432
+L0::Update::C, 786432
+L0::Update::O, 786432
+MEM::L0,0.5
+MEM::L0,0.5
+MEM::L1,0.408
+MEM::L2,1.92e-06
+SPATIAL::L1,0.380952
+SPATIAL::L1,0.380952
+SPATIAL::L1,0.00595238
+SPATIAL::L2,1

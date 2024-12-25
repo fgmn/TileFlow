@@ -1,0 +1,6 @@
+workload,no-fuse,chimera,pipeline,flash-attention,flat,tileflow
+SeqLen-128,1.0,1.0,1.0,1.0,2.0,1.0
+SeqLen-256,1.0,2.0,1.0,1.0,1.0,1.0
+SeqLen-512,1.0,1.2002,1.0,1.0,1.0,1.0
+SeqLen-1024,1.0,1.20007,1.0,,1.0,1.0
+SeqLen-2048,1.0,1.0,1.0,1.0,1.0,1.0

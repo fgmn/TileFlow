@@ -1,0 +1,19 @@
+
+output: /tmp/_tmp-16.csv
+verbose: 0
+macro: 
+  M: 256
+  N: 64
+  K: 64 
+  L: 256
+  
+  KO: 1
+  KM: 4
+  LO: 4
+  LM: 4
+  MO: 16
+  MM: 1
+  NO: 1
+
+  SX: 16
+  SY: 16   

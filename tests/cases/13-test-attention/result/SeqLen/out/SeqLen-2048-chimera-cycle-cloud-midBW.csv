@@ -1,0 +1,102 @@
+metric,value
+Cycle,0
+Energy,2.62028e+12
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 1.07374e+09
+L2::Fill::O, 0
+L2::Read, 4.29497e+09
+L2::Read::K, 1.07374e+09
+L2::Fill::C, 0
+L2::Write::O, 1.07374e+09
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 1.07374e+12
+L2::Update::K, 0
+L2::SlowDown, 0
+L2::Update, 1.07374e+09
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 1.07374e+09
+L2::Write, 1.07374e+09
+L2::Accesses, 5.36871e+09
+L2::Update::Q, 0
+L2::CapUtil, 5.12e-06
+L2::Read::Q, 1.07374e+09
+L2::Update::C, 0
+L2::Update::O, 1.07374e+09
+L1::Write::V, 2.68435e+08
+L1::Update::V, 0
+L1::Fill::V, 2.68435e+08
+L1::Read::V, 2.14748e+09
+L1::Fill::O, 2.68435e+08
+L1::Read, 1.07374e+10
+L1::Read::K, 2.14748e+09
+L1::Fill::C, 0
+L1::Write::O, 2.41592e+09
+L1::Read::C, 2.14748e+09
+L1::SpatialUtil, 0.25
+L1::Energy, 1.52545e+12
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 3.22123e+09
+L1::Fill::K, 2.68435e+08
+L1::Fill, 1.07374e+09
+L1::Write::K, 2.68435e+08
+L1::Fill::Q, 2.68435e+08
+L1::Write::Q, 2.68435e+08
+L1::Write::C, 1.07374e+09
+L1::Read::O, 2.14748e+09
+L1::Write, 4.29497e+09
+L1::Accesses, 1.50324e+10
+L1::Update::Q, 0
+L1::CapUtil, 2.92969e-06
+L1::Read::Q, 2.14748e+09
+L1::Update::C, 1.07374e+09
+L1::Update::O, 2.14748e+09
+mac::Energy, 4.29497e+09
+mac::Flops, 4.29497e+09
+L0::Write::V, 8.3886e+06
+L0::Update::V, 0
+L0::Fill::V, 8.3886e+06
+L0::Read::V, 2.14748e+09
+L0::Fill::O, 8.3886e+06
+L0::Read, 1.28849e+10
+L0::Read::K, 2.14748e+09
+L0::Fill::C, 8.3886e+06
+L0::Write::O, 2.15587e+09
+L0::Read::C, 4.29497e+09
+L0::SpatialUtil, 0.000976562
+L0::Energy, 1.67992e+10
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 4.29497e+09
+L0::Fill::K, 8.3886e+06
+L0::Fill, 4.1943e+07
+L0::Write::K, 8.3886e+06
+L0::Fill::Q, 8.3886e+06
+L0::Write::Q, 8.3886e+06
+L0::Write::C, 2.15587e+09
+L0::Read::O, 2.14748e+09
+L0::Write, 4.33691e+09
+L0::Accesses, 1.72218e+10
+L0::Update::Q, 0
+L0::CapUtil, 0.000488281
+L0::Read::Q, 2.14748e+09
+L0::Update::C, 2.14748e+09
+L0::Update::O, 2.14748e+09
+MEM::L0,0.5
+MEM::L1,1.17188e-05
+MEM::L0,0.5
+MEM::L1,1.17188e-05
+MEM::L2,5.12e-06
+SPATIAL::L1,0.00390625
+SPATIAL::L2,0.25
+SPATIAL::L1,0.00390625
+SPATIAL::L2,0.25
+SPATIAL::L2,0.25

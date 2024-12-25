@@ -1,0 +1,19 @@
+
+output: /tmp/_tmp-53.csv
+verbose: 0
+macro: 
+  M: 768
+  N: 48
+  K: 48 
+  L: 384
+  
+  KO: 3
+  KM: 1
+  LO: 24
+  LM: 1
+  MO: 48
+  MM: 1
+  NO: 1
+
+  SX: 16
+  SY: 16   

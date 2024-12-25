@@ -1,0 +1,102 @@
+metric,value
+Cycle,786432
+Energy,4.02011e+09
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 196608
+L2::Fill::O, 0
+L2::Read, 786432
+L2::Read::K, 196608
+L2::Fill::C, 0
+L2::Write::O, 196608
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 1.96608e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 196608
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 196608
+L2::Write, 196608
+L2::Accesses, 983040
+L2::Update::Q, 0
+L2::CapUtil, 9.6e-07
+L2::Read::Q, 196608
+L2::Update::C, 0
+L2::Update::O, 196608
+L1::Write::V, 49152
+L1::Update::V, 0
+L1::Fill::V, 49152
+L1::Read::V, 786432
+L1::Fill::O, 49152
+L1::Read, 1.03219e+07
+L1::Read::K, 589824
+L1::Fill::C, 0
+L1::Write::O, 1.62202e+06
+L1::Read::C, 5.0135e+06
+L1::SpatialUtil, 0.5
+L1::Energy, 3.41167e+09
+L1::Update::K, 0
+L1::SlowDown, 5.20139
+L1::Update, 6.29146e+06
+L1::Fill::K, 49152
+L1::Fill, 196608
+L1::Write::K, 49152
+L1::Fill::Q, 49152
+L1::Write::Q, 49152
+L1::Write::C, 4.71859e+06
+L1::Read::O, 1.57286e+06
+L1::Write, 6.48806e+06
+L1::Accesses, 3.362e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.03
+L1::Read::Q, 2.3593e+06
+L1::Update::C, 4.71859e+06
+L1::Update::O, 1.57286e+06
+mac::Energy, 7.54975e+07
+mac::Flops, 7.54975e+07
+L0::Write::V, 18428
+L0::Update::V, 0
+L0::Fill::V, 18428
+L0::Read::V, 65536
+L0::Fill::O, 18428
+L0::Read, 417792
+L0::Read::K, 73728
+L0::Fill::C, 4886
+L0::Write::O, 83964
+L0::Read::C, 139264
+L0::SpatialUtil, 0.140625
+L0::Energy, 3.36335e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 139264
+L0::Fill::K, 18426
+L0::Fill, 78594
+L0::Write::K, 18426
+L0::Fill::Q, 18426
+L0::Write::Q, 18426
+L0::Write::C, 78614
+L0::Read::O, 65536
+L0::Write, 217858
+L0::Accesses, 3.44607e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.0703125
+L0::Read::Q, 73728
+L0::Update::C, 73728
+L0::Update::O, 65536
+MEM::L0,0.5
+MEM::L1,0.0375
+MEM::L0,0.5
+MEM::L1,0.06
+MEM::L2,9.6e-07
+SPATIAL::L1,0.25
+SPATIAL::L2,0.5
+SPATIAL::L1,0.28125
+SPATIAL::L2,0.5
+SPATIAL::L2,0.25

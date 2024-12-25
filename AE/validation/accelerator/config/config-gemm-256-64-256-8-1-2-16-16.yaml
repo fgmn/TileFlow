@@ -1,0 +1,14 @@
+
+output: /tmp/tmptfbo6ygh.csv
+verbose: 0
+macro: 
+  M: 256
+  N: 64
+  K: 256 
+  
+  KO: 2
+  MO: 8
+  NO: 1
+
+  SX: 16
+  SY: 16  

@@ -1,0 +1,100 @@
+metric,value
+Cycle,1474560
+Energy,7.3514e+09
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 491520
+L2::Fill::O, 0
+L2::Read, 1.47456e+06
+L2::Read::K, 491520
+L2::Fill::C, 0
+L2::Write::O, 245760
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 3.44064e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 245760
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 245760
+L2::Write, 245760
+L2::Accesses, 1.72032e+06
+L2::Update::Q, 0
+L2::CapUtil, 1.2e-06
+L2::Read::Q, 245760
+L2::Update::C, 0
+L2::Update::O, 245760
+L1::Write::V, 122880
+L1::Update::V, 0
+L1::Fill::V, 122880
+L1::Read::V, 5.89824e+06
+L1::Fill::O, 61440
+L1::Read, 2.44777e+07
+L1::Read::K, 5.89824e+06
+L1::Fill::C, 294912
+L1::Write::O, 5.95968e+06
+L1::Read::C, 884736
+L1::SpatialUtil, 0.5
+L1::Energy, 6.35947e+09
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 6.19315e+06
+L1::Fill::K, 122880
+L1::Fill, 663552
+L1::Write::K, 122880
+L1::Fill::Q, 61440
+L1::Write::Q, 61440
+L1::Write::C, 589824
+L1::Read::O, 5.89824e+06
+L1::Write, 6.8567e+06
+L1::Accesses, 6.26688e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.02025
+L1::Read::Q, 5.89824e+06
+L1::Update::C, 294912
+L1::Update::O, 5.89824e+06
+mac::Energy, 9.43718e+07
+mac::Flops, 9.43718e+07
+L0::Write::V, 1.47456e+06
+L0::Update::V, 0
+L0::Fill::V, 1.47456e+06
+L0::Read::V, 1.47456e+06
+L0::Fill::O, 1.47456e+06
+L0::Read, 8.84736e+06
+L0::Read::K, 1.47456e+06
+L0::Fill::C, 36864
+L0::Write::O, 2.94912e+06
+L0::Read::C, 2.94912e+06
+L0::SpatialUtil, 0.5
+L0::Energy, 5.53496e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 2.94912e+06
+L0::Fill::K, 1.47456e+06
+L0::Fill, 5.9351e+06
+L0::Write::K, 1.47456e+06
+L0::Fill::Q, 1.47456e+06
+L0::Write::Q, 1.47456e+06
+L0::Write::C, 1.51142e+06
+L0::Read::O, 1.47456e+06
+L0::Write, 8.88422e+06
+L0::Accesses, 5.67411e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.25
+L0::Read::Q, 1.47456e+06
+L0::Update::C, 1.47456e+06
+L0::Update::O, 1.47456e+06
+MEM::L0,0.5
+MEM::L1,0.0405
+MEM::L0,0.5
+MEM::L1,0.0405
+MEM::L2,1.2e-06
+SPATIAL::L1,1
+SPATIAL::L1,1
+SPATIAL::L2,1

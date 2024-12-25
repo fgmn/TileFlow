@@ -1,0 +1,14 @@
+
+output: /tmp/tmpi3papa5g.csv
+verbose: 0
+macro: 
+  M: 256
+  N: 80
+  K: 256 
+  
+  KO: 16
+  MO: 8
+  NO: 1
+
+  SX: 16
+  SY: 16  

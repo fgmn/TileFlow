@@ -1,0 +1,13 @@
+
+output: /tmp/_tmp-2.csv
+verbose: 0
+macro:
+    M: 64
+    N: 16
+    K: 32
+    MO: 4
+    MM: 1
+    NO: 1
+    NI: 16
+    KO: 1
+    KM: 2        

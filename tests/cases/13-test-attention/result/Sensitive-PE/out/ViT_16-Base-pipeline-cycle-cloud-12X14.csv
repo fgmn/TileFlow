@@ -1,0 +1,100 @@
+metric,value
+Cycle,589824
+Energy,3.23076e+09
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 147456
+L2::Fill::O, 0
+L2::Read, 589824
+L2::Read::K, 147456
+L2::Fill::C, 0
+L2::Write::O, 147456
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 1.47456e+08
+L2::Update::K, 0
+L2::SlowDown, 1.33333
+L2::Update, 147456
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 147456
+L2::Write, 147456
+L2::Accesses, 737280
+L2::Update::Q, 0
+L2::CapUtil, 7.2e-07
+L2::Read::Q, 147456
+L2::Update::C, 0
+L2::Update::O, 147456
+L1::Write::V, 73728
+L1::Update::V, 0
+L1::Fill::V, 73728
+L1::Read::V, 4.71859e+06
+L1::Fill::O, 36864
+L1::Read, 1.18702e+07
+L1::Read::K, 1.76947e+06
+L1::Fill::C, 221184
+L1::Write::O, 1.21651e+06
+L1::Read::C, 663552
+L1::SpatialUtil, 0.5
+L1::Energy, 2.7832e+09
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 1.40083e+06
+L1::Fill::K, 73728
+L1::Fill, 442368
+L1::Write::K, 73728
+L1::Fill::Q, 36864
+L1::Write::Q, 36864
+L1::Write::C, 442368
+L1::Read::O, 1.17965e+06
+L1::Write, 1.8432e+06
+L1::Accesses, 2.74268e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.018
+L1::Read::Q, 3.53894e+06
+L1::Update::C, 221184
+L1::Update::O, 1.17965e+06
+mac::Energy, 5.66231e+07
+mac::Flops, 5.66231e+07
+L0::Write::V, 84258
+L0::Update::V, 0
+L0::Fill::V, 84258
+L0::Read::V, 393216
+L0::Fill::O, 84258
+L0::Read, 2.50675e+06
+L0::Read::K, 442368
+L0::Fill::C, 2629
+L0::Write::O, 477474
+L0::Read::C, 835584
+L0::SpatialUtil, 0.107143
+L0::Energy, 2.43476e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 835584
+L0::Fill::K, 84259
+L0::Fill, 339663
+L0::Write::K, 84259
+L0::Fill::Q, 84259
+L0::Write::Q, 84259
+L0::Write::C, 444997
+L0::Read::O, 393216
+L0::Write, 1.17525e+06
+L0::Accesses, 2.49589e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.0535714
+L0::Read::Q, 442368
+L0::Update::C, 442368
+L0::Update::O, 393216
+MEM::L0,0.5
+MEM::L1,0.036
+MEM::L0,0.5
+MEM::L1,0.036
+MEM::L2,7.2e-07
+SPATIAL::L1,0.190476
+SPATIAL::L1,0.214286
+SPATIAL::L2,1

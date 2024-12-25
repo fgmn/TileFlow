@@ -1,0 +1,102 @@
+metric,value
+Cycle,344064
+Energy,5.96114e+08
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 294912
+L2::Fill::O, 0
+L2::Read, 884736
+L2::Read::K, 294912
+L2::Fill::C, 0
+L2::Write::O, 147456
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 2.06438e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 147456
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 147456
+L2::Write, 147456
+L2::Accesses, 1.03219e+06
+L2::Update::Q, 0
+L2::CapUtil, 7.2e-07
+L2::Read::Q, 147456
+L2::Update::C, 0
+L2::Update::O, 147456
+L1::Write::V, 73728
+L1::Update::V, 0
+L1::Fill::V, 73728
+L1::Read::V, 2.3593e+06
+L1::Fill::O, 36864
+L1::Read, 7.44653e+06
+L1::Read::K, 2.3593e+06
+L1::Fill::C, 0
+L1::Write::O, 921600
+L1::Read::C, 663552
+L1::SpatialUtil, 0.5
+L1::Energy, 7.53937e+07
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 1.3271e+06
+L1::Fill::K, 73728
+L1::Fill, 221184
+L1::Write::K, 73728
+L1::Fill::Q, 36864
+L1::Write::Q, 36864
+L1::Write::C, 442368
+L1::Read::O, 884736
+L1::Write, 1.54829e+06
+L1::Accesses, 1.79896e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.421875
+L1::Read::Q, 1.17965e+06
+L1::Update::C, 442368
+L1::Update::O, 884736
+mac::Energy, 5.66231e+07
+mac::Flops, 5.66231e+07
+L0::Write::V, 55290
+L0::Update::V, 0
+L0::Fill::V, 55290
+L0::Read::V, 147456
+L0::Fill::O, 55290
+L0::Read, 1.03219e+06
+L0::Read::K, 196608
+L0::Fill::C, 2580
+L0::Write::O, 202746
+L0::Read::C, 344064
+L0::SpatialUtil, 0.1875
+L0::Energy, 2.57659e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 344064
+L0::Fill::K, 55290
+L0::Fill, 223740
+L0::Write::K, 55290
+L0::Fill::Q, 55290
+L0::Write::Q, 55290
+L0::Write::C, 199188
+L0::Read::O, 147456
+L0::Write, 567804
+L0::Accesses, 2.6406e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.09375
+L0::Read::Q, 196608
+L0::Update::C, 196608
+L0::Update::O, 147456
+MEM::L0,0.5
+MEM::L1,0.84375
+MEM::L0,0.5
+MEM::L1,0.5
+MEM::L2,7.2e-07
+SPATIAL::L1,0.28125
+SPATIAL::L2,0.5
+SPATIAL::L1,0.375
+SPATIAL::L2,0.5
+SPATIAL::L2,0.25

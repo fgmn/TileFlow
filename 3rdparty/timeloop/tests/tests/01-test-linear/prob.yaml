@@ -1,0 +1,27 @@
+problem:
+  shape:
+    name: GEMM
+    dimensions: [M,N,K] 
+    data-spaces:
+    - name: C 
+      projection:
+        - [[M]] 
+        - [[N]] 
+      read-write: True 
+    - name: A 
+      projection:
+        - [[M]]
+        - [[K]]
+    - name: B
+      projection:
+        - [[K]]
+        - [[N]]
+  instance:
+    M: 512
+    N: 512
+    K: 512
+
+model: 
+  verbose: true
+  auto_bypass_on_failure: false
+  out_prefix: gemm-

@@ -1,0 +1,102 @@
+metric,value
+Cycle,147456
+Energy,3.17752e+09
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 147456
+L2::Fill::O, 0
+L2::Read, 589824
+L2::Read::K, 147456
+L2::Fill::C, 0
+L2::Write::O, 147456
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 1.47456e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 147456
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 147456
+L2::Write, 147456
+L2::Accesses, 737280
+L2::Update::Q, 0
+L2::CapUtil, 7.2e-07
+L2::Read::Q, 147456
+L2::Update::C, 0
+L2::Update::O, 147456
+L1::Write::V, 9216
+L1::Update::V, 0
+L1::Fill::V, 9216
+L1::Read::V, 884736
+L1::Fill::O, 9216
+L1::Read, 2.60813e+06
+L1::Read::K, 147456
+L1::Fill::C, 0
+L1::Write::O, 451584
+L1::Read::C, 248832
+L1::SpatialUtil, 1
+L1::Energy, 2.71914e+09
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 470016
+L1::Fill::K, 36864
+L1::Fill, 64512
+L1::Write::K, 36864
+L1::Fill::Q, 9216
+L1::Write::Q, 9216
+L1::Write::C, 27648
+L1::Read::O, 442368
+L1::Write, 534528
+L1::Accesses, 2.61734e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.0234375
+L1::Read::Q, 884736
+L1::Update::C, 27648
+L1::Update::O, 442368
+mac::Energy, 5.66231e+07
+mac::Flops, 5.66231e+07
+L0::Write::V, 27646
+L0::Update::V, 0
+L0::Fill::V, 27646
+L0::Read::V, 55296
+L0::Fill::O, 27646
+L0::Read, 387072
+L0::Read::K, 73728
+L0::Fill::C, 968
+L0::Write::O, 82942
+L0::Read::C, 129024
+L0::SpatialUtil, 0.125
+L0::Energy, 2.54295e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 129024
+L0::Fill::K, 6910
+L0::Fill, 70080
+L0::Write::K, 6910
+L0::Fill::Q, 6910
+L0::Write::Q, 6910
+L0::Write::C, 74696
+L0::Read::O, 55296
+L0::Write, 199104
+L0::Accesses, 2.60591e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.0625
+L0::Read::Q, 73728
+L0::Update::C, 73728
+L0::Update::O, 55296
+MEM::L0,0.5
+MEM::L1,0.0234375
+MEM::L0,0.5
+MEM::L1,0.046875
+MEM::L2,7.2e-07
+SPATIAL::L1,0.09375
+SPATIAL::L2,1
+SPATIAL::L1,0.5
+SPATIAL::L2,0.25
+SPATIAL::L2,0.0625

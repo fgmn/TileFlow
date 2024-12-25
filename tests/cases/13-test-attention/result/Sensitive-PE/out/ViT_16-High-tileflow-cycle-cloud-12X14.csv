@@ -1,0 +1,100 @@
+metric,value
+Cycle,983040
+Energy,2.88629e+09
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 245760
+L2::Fill::O, 0
+L2::Read, 983040
+L2::Read::K, 245760
+L2::Fill::C, 0
+L2::Write::O, 245760
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 2.4576e+08
+L2::Update::K, 0
+L2::SlowDown, 1.25
+L2::Update, 245760
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 245760
+L2::Write, 245760
+L2::Accesses, 1.2288e+06
+L2::Update::Q, 0
+L2::CapUtil, 1.2e-06
+L2::Read::Q, 245760
+L2::Update::C, 0
+L2::Update::O, 245760
+L1::Write::V, 61440
+L1::Update::V, 0
+L1::Fill::V, 61440
+L1::Read::V, 3.93216e+06
+L1::Fill::O, 61440
+L1::Read, 1.57286e+07
+L1::Read::K, 3.93216e+06
+L1::Fill::C, 0
+L1::Write::O, 3.9936e+06
+L1::Read::C, 0
+L1::SpatialUtil, 0.25
+L1::Energy, 2.02007e+09
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 3.93216e+06
+L1::Fill::K, 61440
+L1::Fill, 245760
+L1::Write::K, 61440
+L1::Fill::Q, 61440
+L1::Write::Q, 61440
+L1::Write::C, 0
+L1::Read::O, 3.93216e+06
+L1::Write, 4.17792e+06
+L1::Accesses, 1.99066e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.18
+L1::Read::Q, 3.93216e+06
+L1::Update::C, 0
+L1::Update::O, 3.93216e+06
+mac::Energy, 9.43718e+07
+mac::Flops, 9.43718e+07
+L0::Write::V, 280860
+L0::Update::V, 0
+L0::Fill::V, 280860
+L0::Read::V, 327680
+L0::Fill::O, 280860
+L0::Read, 1.96608e+06
+L0::Read::K, 327680
+L0::Fill::C, 0
+L0::Write::O, 608540
+L0::Read::C, 655360
+L0::SpatialUtil, 0.214286
+L0::Energy, 5.26096e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 655360
+L0::Fill::K, 280860
+L0::Fill, 1.12344e+06
+L0::Write::K, 280860
+L0::Fill::Q, 280860
+L0::Write::Q, 280860
+L0::Write::C, 327680
+L0::Read::O, 327680
+L0::Write, 1.7788e+06
+L0::Accesses, 5.39263e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.107143
+L0::Read::Q, 327680
+L0::Update::C, 327680
+L0::Update::O, 327680
+MEM::L0,0.5
+MEM::L0,0.5
+MEM::L1,0.72
+MEM::L2,1.2e-06
+SPATIAL::L1,0.857143
+SPATIAL::L1,0.857143
+SPATIAL::L1,0.00595238
+SPATIAL::L2,0.25

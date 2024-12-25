@@ -1,0 +1,22 @@
+problem:
+  shape:
+    name: Conv1D
+    dimensions: [K,R] 
+    data-spaces:
+    - name: Output
+      projection:
+        - [[K]]
+      read-write: True 
+    - name: Input 
+      projection:
+        - [[K],[R]]
+    - name: Kernel
+      projection:
+        - [[R]]
+    
+  instance:
+    K: 128
+    R: 3
+
+for K, R:
+  Output[K] = f(Input[K+R], Kernel[R]) 

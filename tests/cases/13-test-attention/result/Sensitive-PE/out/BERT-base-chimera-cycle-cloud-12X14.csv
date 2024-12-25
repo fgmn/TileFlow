@@ -1,0 +1,102 @@
+metric,value
+Cycle,3145728
+Energy,1.9033e+10
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 393216
+L2::Fill::O, 0
+L2::Read, 1.57286e+06
+L2::Read::K, 393216
+L2::Fill::C, 0
+L2::Write::O, 393216
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 3.93216e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 393216
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 393216
+L2::Write, 393216
+L2::Accesses, 1.96608e+06
+L2::Update::Q, 0
+L2::CapUtil, 1.92e-06
+L2::Read::Q, 393216
+L2::Update::C, 0
+L2::Update::O, 393216
+L1::Write::V, 98304
+L1::Update::V, 0
+L1::Fill::V, 98304
+L1::Read::V, 1.25829e+07
+L1::Fill::O, 98304
+L1::Read, 4.63995e+07
+L1::Read::K, 1.25829e+07
+L1::Fill::C, 0
+L1::Write::O, 1.26812e+07
+L1::Read::C, 2.3593e+06
+L1::SpatialUtil, 1
+L1::Energy, 1.64398e+10
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 1.33693e+07
+L1::Fill::K, 196608
+L1::Fill, 491520
+L1::Write::K, 196608
+L1::Fill::Q, 98304
+L1::Write::Q, 98304
+L1::Write::C, 786432
+L1::Read::O, 1.25829e+07
+L1::Write, 1.38609e+07
+L1::Accesses, 1.62005e+08
+L1::Update::Q, 0
+L1::CapUtil, 0.176
+L1::Read::Q, 6.29146e+06
+L1::Update::C, 786432
+L1::Update::O, 1.25829e+07
+mac::Energy, 4.02653e+08
+mac::Flops, 4.02653e+08
+L0::Write::V, 599185
+L0::Update::V, 0
+L0::Fill::V, 599185
+L0::Read::V, 1.57286e+06
+L0::Fill::O, 599185
+L0::Read, 9.43718e+06
+L0::Read::K, 1.57286e+06
+L0::Fill::C, 14041
+L0::Write::O, 2.17205e+06
+L0::Read::C, 3.14573e+06
+L0::SpatialUtil, 0.190476
+L0::Energy, 1.7973e+09
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 3.14573e+06
+L0::Fill::K, 299592
+L0::Fill, 1.8116e+06
+L0::Write::K, 299592
+L0::Fill::Q, 299592
+L0::Write::Q, 299592
+L0::Write::C, 1.5869e+06
+L0::Read::O, 1.57286e+06
+L0::Write, 4.95732e+06
+L0::Accesses, 1.8425e+09
+L0::Update::Q, 0
+L0::CapUtil, 0.0952381
+L0::Read::Q, 1.57286e+06
+L0::Update::C, 1.57286e+06
+L0::Update::O, 1.57286e+06
+MEM::L0,0.5
+MEM::L1,0.176
+MEM::L0,0.5
+MEM::L1,0.32
+MEM::L2,1.92e-06
+SPATIAL::L1,0.190476
+SPATIAL::L2,1
+SPATIAL::L1,0.380952
+SPATIAL::L2,0.5
+SPATIAL::L2,0.25

@@ -1,0 +1,3 @@
+architecture,no-fuse,chimera,pipeline,flash-attention,flat,tileflow
+edge,761856.0,348160.0,368640.0,696320.0,675840.0,1310720.0
+cloud,540672.0,430080.0,245760.0,286720.0,327680.0,368640.0

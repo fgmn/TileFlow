@@ -1,0 +1,14 @@
+
+output: /tmp/tmpscpsd1jt.csv
+verbose: 0
+macro: 
+  M: 256
+  N: 80
+  K: 256 
+  
+  KO: 16
+  MO: 4
+  NO: 1
+
+  SX: 16
+  SY: 16  

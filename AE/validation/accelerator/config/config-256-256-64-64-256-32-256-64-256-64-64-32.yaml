@@ -1,0 +1,19 @@
+
+output: /tmp/_tmp-28.csv
+verbose: 0
+macro: 
+  M: 256
+  N: 64
+  K: 64 
+  L: 256
+  
+  KO: 2
+  KM: 2
+  LO: 8
+  LM: 2
+  MO: 4
+  MM: 4
+  NO: 1
+
+  SX: 16
+  SY: 16   

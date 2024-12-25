@@ -1,0 +1,13 @@
+
+macro:
+  B: 1
+  H: 12
+  M: 256
+  N: 64
+  A: 64
+  L: 256        
+output: result/Sensitive-PE/out/ViT_14-Base-flash-attention-cycle-cloud-32X32
+tileflow-mapper:
+  timeout: 1200
+  objective: cycle
+verbose: 1

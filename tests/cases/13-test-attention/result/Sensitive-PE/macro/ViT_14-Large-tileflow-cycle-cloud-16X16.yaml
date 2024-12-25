@@ -1,0 +1,13 @@
+
+macro:
+  B: 1
+  H: 16
+  M: 256
+  N: 64
+  A: 64
+  L: 256        
+output: result/Sensitive-PE/out/ViT_14-Large-tileflow-cycle-cloud-16X16
+tileflow-mapper:
+  timeout: 1200
+  objective: cycle
+verbose: 1

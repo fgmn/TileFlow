@@ -1,0 +1,100 @@
+metric,value
+Cycle,262144
+Energy,6.19748e+09
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 262144
+L2::Fill::O, 0
+L2::Read, 1.04858e+06
+L2::Read::K, 262144
+L2::Fill::C, 0
+L2::Write::O, 262144
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 2.62144e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 262144
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 262144
+L2::Write, 262144
+L2::Accesses, 1.31072e+06
+L2::Update::Q, 0
+L2::CapUtil, 1.28e-06
+L2::Read::Q, 262144
+L2::Update::C, 0
+L2::Update::O, 262144
+L1::Write::V, 16384
+L1::Update::V, 0
+L1::Fill::V, 16384
+L1::Read::V, 2.09715e+06
+L1::Fill::O, 16384
+L1::Read, 1.00925e+07
+L1::Read::K, 2.09715e+06
+L1::Fill::C, 0
+L1::Write::O, 4.21069e+06
+L1::Read::C, 655360
+L1::SpatialUtil, 0.5
+L1::Energy, 5.19488e+09
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 4.32538e+06
+L1::Fill::K, 65536
+L1::Fill, 114688
+L1::Write::K, 65536
+L1::Fill::Q, 16384
+L1::Write::Q, 16384
+L1::Write::C, 131072
+L1::Read::O, 4.1943e+06
+L1::Write, 4.44006e+06
+L1::Accesses, 5.0004e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.0175781
+L1::Read::Q, 1.04858e+06
+L1::Update::C, 131072
+L1::Update::O, 4.1943e+06
+mac::Energy, 1.34218e+08
+mac::Flops, 1.34218e+08
+L0::Write::V, 131070
+L0::Update::V, 0
+L0::Fill::V, 131070
+L0::Read::V, 262144
+L0::Fill::O, 131070
+L0::Read, 1.57286e+06
+L0::Read::K, 262144
+L0::Fill::C, 2556
+L0::Write::O, 393214
+L0::Read::C, 524288
+L0::SpatialUtil, 0.0625
+L0::Energy, 6.06229e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 524288
+L0::Fill::K, 32766
+L0::Fill, 330228
+L0::Write::K, 32766
+L0::Fill::Q, 32766
+L0::Write::Q, 32766
+L0::Write::C, 264700
+L0::Read::O, 262144
+L0::Write, 854516
+L0::Accesses, 6.21409e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.03125
+L0::Read::Q, 262144
+L0::Update::C, 262144
+L0::Update::O, 262144
+MEM::L0,0.5
+MEM::L1,0.0351562
+MEM::L0,0.5
+MEM::L1,0.09375
+MEM::L2,1.28e-06
+SPATIAL::L1,0.125
+SPATIAL::L1,0.5
+SPATIAL::L2,1

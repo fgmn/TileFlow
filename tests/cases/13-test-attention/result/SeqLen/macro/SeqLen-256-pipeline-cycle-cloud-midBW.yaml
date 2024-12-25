@@ -1,0 +1,13 @@
+
+macro:
+  B: 1
+  H: 8
+  M: 256
+  N: 64
+  A: 64
+  L: 256        
+output: result/SeqLen/out/SeqLen-256-pipeline-cycle-cloud-midBW
+tileflow-mapper:
+  timeout: 1200
+  objective: cycle
+verbose: 1

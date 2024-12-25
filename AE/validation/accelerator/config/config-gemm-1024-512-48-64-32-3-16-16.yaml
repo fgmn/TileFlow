@@ -1,0 +1,14 @@
+
+output: /tmp/tmpt2ny5bx6.csv
+verbose: 0
+macro: 
+  M: 1024
+  N: 512
+  K: 48 
+  
+  KO: 3
+  MO: 64
+  NO: 32
+
+  SX: 16
+  SY: 16  

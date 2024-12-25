@@ -1,0 +1,13 @@
+
+macro:
+  B: 1
+  H: 16
+  M: 192
+  N: 64
+  A: 64
+  L: 192        
+output: result/Standard/out/ViT_16-Large-no-fuse-energy-edge
+tileflow-mapper:
+  timeout: 1200
+  objective: energy
+verbose: 1

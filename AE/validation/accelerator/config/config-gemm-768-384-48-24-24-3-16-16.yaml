@@ -1,0 +1,14 @@
+
+output: /tmp/tmpreg8jdy8.csv
+verbose: 0
+macro: 
+  M: 768
+  N: 384
+  K: 48 
+  
+  KO: 3
+  MO: 24
+  NO: 24
+
+  SX: 16
+  SY: 16  

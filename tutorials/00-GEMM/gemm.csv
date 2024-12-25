@@ -1,0 +1,72 @@
+metric,value
+Cycle,536
+Energy,1.44756e+07
+MainMemory::Fill::B, 0
+MainMemory::Read::B, 1024
+MainMemory::Write::A, 0
+MainMemory::Write::B, 0
+MainMemory::Read::A, 256
+MainMemory::Fill::A, 0
+MainMemory::Write, 1024
+MainMemory::CapUtil, 0.140625
+MainMemory::Fill, 0
+MainMemory::Accesses, 3328
+MainMemory::Update::B, 0
+MainMemory::Update, 1024
+MainMemory::SlowDown, 2.56459
+MainMemory::Write::C, 1024
+MainMemory::Energy, 1.31072e+07
+MainMemory::Update::A, 0
+MainMemory::SpatialUtil, 1
+MainMemory::Read::C, 1024
+MainMemory::Update::C, 1024
+MainMemory::Fill::C, 0
+MainMemory::Read, 2304
+Cache::Fill::B, 1024
+Cache::Read::B, 1024
+Cache::Write::A, 256
+Cache::Write::B, 1024
+Cache::Read::A, 8192
+Cache::Fill::A, 256
+Cache::Write, 3328
+Cache::CapUtil, 0.00651042
+Cache::Fill, 2304
+Cache::Accesses, 13568
+Cache::Update::B, 0
+Cache::Update, 1024
+Cache::SlowDown, 6
+Cache::Write::C, 2048
+Cache::Energy, 1.23514e+06
+Cache::Update::A, 0
+Cache::SpatialUtil, 1
+Cache::Read::C, 1024
+Cache::Update::C, 1024
+Cache::Fill::C, 1024
+Cache::Read, 10240
+mac::Energy, 16384
+mac::Flops, 16384
+RegFile::Fill::B, 64
+RegFile::Read::B, 64
+RegFile::Write::A, 32
+RegFile::Write::B, 64
+RegFile::Read::A, 64
+RegFile::Fill::A, 32
+RegFile::Write, 224
+RegFile::CapUtil, 1
+RegFile::Fill, 160
+RegFile::Accesses, 106496
+RegFile::Update::B, 0
+RegFile::Update, 64
+RegFile::SlowDown, 2
+RegFile::Write::C, 128
+RegFile::Energy, 116833
+RegFile::Update::A, 0
+RegFile::SpatialUtil, 1
+RegFile::Read::C, 64
+RegFile::Update::C, 64
+RegFile::Fill::C, 64
+RegFile::Read, 192
+MEM::RegFile,1
+MEM::Cache,0.00651042
+MEM::MainMemory,0.140625
+SPATIAL::Cache,1

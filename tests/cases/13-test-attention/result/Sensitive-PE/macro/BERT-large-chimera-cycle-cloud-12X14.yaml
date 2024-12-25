@@ -1,0 +1,13 @@
+
+macro:
+  B: 1
+  H: 16
+  M: 512
+  N: 64
+  A: 64
+  L: 512        
+output: result/Sensitive-PE/out/BERT-large-chimera-cycle-cloud-12X14
+tileflow-mapper:
+  timeout: 1200
+  objective: cycle
+verbose: 1

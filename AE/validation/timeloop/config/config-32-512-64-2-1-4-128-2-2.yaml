@@ -1,0 +1,13 @@
+
+output: /tmp/_tmp-21.csv
+verbose: 0
+macro:
+    M: 32
+    N: 512
+    K: 64
+    MO: 2
+    MM: 1
+    NO: 4
+    NI: 128
+    KO: 2
+    KM: 2        

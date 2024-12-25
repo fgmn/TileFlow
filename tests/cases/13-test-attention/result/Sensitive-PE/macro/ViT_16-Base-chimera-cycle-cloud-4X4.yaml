@@ -1,0 +1,13 @@
+
+macro:
+  B: 1
+  H: 12
+  M: 192
+  N: 64
+  A: 64
+  L: 192        
+output: result/Sensitive-PE/out/ViT_16-Base-chimera-cycle-cloud-4X4
+tileflow-mapper:
+  timeout: 1200
+  objective: cycle
+verbose: 1

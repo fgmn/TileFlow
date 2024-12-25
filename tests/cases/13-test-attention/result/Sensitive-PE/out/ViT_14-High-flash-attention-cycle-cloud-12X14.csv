@@ -1,0 +1,100 @@
+metric,value
+Cycle,1310720
+Energy,8.18726e+09
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 327680
+L2::Fill::O, 0
+L2::Read, 1.31072e+06
+L2::Read::K, 327680
+L2::Fill::C, 0
+L2::Write::O, 327680
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 3.2768e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 327680
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 327680
+L2::Write, 327680
+L2::Accesses, 1.6384e+06
+L2::Update::Q, 0
+L2::CapUtil, 1.6e-06
+L2::Read::Q, 327680
+L2::Update::C, 0
+L2::Update::O, 327680
+L1::Write::V, 81920
+L1::Update::V, 0
+L1::Fill::V, 81920
+L1::Read::V, 5.24288e+06
+L1::Fill::O, 81920
+L1::Read, 1.93987e+07
+L1::Read::K, 5.24288e+06
+L1::Fill::C, 262144
+L1::Write::O, 5.3248e+06
+L1::Read::C, 1.04858e+06
+L1::SpatialUtil, 1
+L1::Energy, 6.94304e+09
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 5.50502e+06
+L1::Fill::K, 163840
+L1::Fill, 671744
+L1::Write::K, 163840
+L1::Fill::Q, 81920
+L1::Write::Q, 81920
+L1::Write::C, 524288
+L1::Read::O, 5.24288e+06
+L1::Write, 6.17677e+06
+L1::Accesses, 6.84196e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.062
+L1::Read::Q, 2.62144e+06
+L1::Update::C, 262144
+L1::Update::O, 5.24288e+06
+mac::Energy, 1.67772e+08
+mac::Flops, 1.67772e+08
+L0::Write::V, 249656
+L0::Update::V, 0
+L0::Fill::V, 249656
+L0::Read::V, 655360
+L0::Fill::O, 249656
+L0::Read, 3.93216e+06
+L0::Read::K, 655360
+L0::Fill::C, 4674
+L0::Write::O, 905016
+L0::Read::C, 1.31072e+06
+L0::SpatialUtil, 0.190476
+L0::Energy, 7.48764e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 1.31072e+06
+L0::Fill::K, 124826
+L0::Fill, 753638
+L0::Write::K, 124826
+L0::Fill::Q, 124826
+L0::Write::Q, 124826
+L0::Write::C, 660034
+L0::Read::O, 655360
+L0::Write, 2.06436e+06
+L0::Accesses, 7.67554e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.0952381
+L0::Read::Q, 655360
+L0::Update::C, 655360
+L0::Update::O, 655360
+MEM::L0,0.5
+MEM::L1,0.062
+MEM::L0,0.5
+MEM::L1,0.104
+MEM::L2,1.6e-06
+SPATIAL::L1,0.190476
+SPATIAL::L1,0.380952
+SPATIAL::L2,1

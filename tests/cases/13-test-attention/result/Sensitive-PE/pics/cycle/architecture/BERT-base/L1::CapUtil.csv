@@ -1,0 +1,5 @@
+architecture,no-fuse,chimera,pipeline,flash-attention,flat,tileflow
+cloud-4X4,0.104,0.044,0.052,0.096,0.067,0.108
+cloud-12X14,0.088,0.176,0.16,0.104,0.16,0.408
+cloud-16X16,0.088,0.104,0.088,0.176,0.136,0.08
+cloud-32X32,0.104,0.176,0.088,0.176,0.136,0.096

@@ -1,0 +1,13 @@
+
+macro:
+  B: 1
+  H: 8
+  M: 1024
+  N: 64
+  A: 64
+  L: 1024        
+output: result/SeqLen/out/SeqLen-1024-flash-attention-cycle-cloud-midBW
+tileflow-mapper:
+  timeout: 1200
+  objective: cycle
+verbose: 1

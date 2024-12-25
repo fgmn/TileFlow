@@ -1,0 +1,19 @@
+
+macro:
+  B: 1
+  H: 144 
+  W: 144 
+  C: 32 
+  L: 64
+  K: 80
+  R: 3
+  S: 3
+  U: 1
+  V: 1      
+output: result/Standard/out/CC2-isos-cycle-cloud
+tileflow-mapper:
+  timeout: 600
+  objective: cycle
+verbose: 1
+check: 
+    loopcount: False

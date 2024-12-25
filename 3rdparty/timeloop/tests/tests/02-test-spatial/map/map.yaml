@@ -1,0 +1,15 @@
+mapping:
+  - target: MainMemory 
+    type: temporal 
+    factors: K=8
+    permutation: K 
+  
+  - target: MainMemory
+    type: spatial 
+    factors: K=16
+    permutation: K 
+
+  - target: RegFile
+    type: temporal  
+    factors: R=3
+    permutation: R 

@@ -1,0 +1,10 @@
+workload,no-fuse,chimera,pipeline,flash-attention,flat,tileflow
+BERT-small,0.5,1.0,0.5,1.0,0.5,0.5
+BERT-base,1.0,1.0,0.5,1.0,0.5,0.25
+BERT-large,1.0,1.0,0.5,1.0,0.5,0.25
+ViT_14-Base,0.5,0.5,0.5,0.5,0.5,0.25
+ViT_14-Large,1.0,0.5,0.5,0.5,0.5,0.5
+ViT_14-High,0.5,0.5,0.5,0.5,0.5,0.25
+ViT_16-Base,0.5,1.0,0.5,,0.5,0.5
+ViT_16-Large,0.5,1.0,0.5,1.0,0.5,0.5
+ViT_16-High,0.5,1.0,0.5,1.0,0.5,0.5

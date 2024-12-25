@@ -1,0 +1,67 @@
+mapping:
+  node-type: Tile 
+  type: temporal 
+  factors: M=64 L=32 
+  permutation: ML 
+  target: MainMemory 
+  
+  subtree: 
+  - node-type: Scope 
+    type: Pipeline 
+    
+    subtree: 
+      - node-type: Tile 
+        type: Spatial 
+        factors: M=2 L=4 
+        split: 1
+        permutation: ML 
+        target: MainMemory
+        
+        subtree: 
+        - node-type: Tile 
+          type: temporal  
+          factors: M=4 L=4 K=64
+          permutation: MLK 
+          target: RegFile
+          
+          subtree:
+          - node-type: Op
+            name: GEMM1 
+            binding: M:M L:L K:K 
+
+      # A common spatial tile
+      - node-type: Tile
+        type: Spatial 
+        factors: M=2 L=4 
+        permutation: ML 
+        split: 1
+        target: MainMemory 
+
+        subtree:
+        - node-type: Scope 
+          type: Sequential 
+
+          subtree: 
+          - node-type: Tile 
+            type: temporal 
+            factors: M=4  L=4 
+            permutation: ML 
+            target: RegFile 
+            
+            subtree: 
+            - node-type: Op
+              name: EXP  
+              binding: M:M, L:L 
+
+
+          - node-type: Tile 
+            type: temporal 
+            factors: M=4 L=4 N=64 
+            permutation: MLN 
+            target: RegFile
+            
+            subtree: 
+            - node-type: Op
+              name: GEMM2  
+              binding: M:M, L:L, N:N 
+      

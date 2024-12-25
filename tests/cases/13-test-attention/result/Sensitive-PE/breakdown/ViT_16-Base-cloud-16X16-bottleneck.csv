@@ -1,0 +1,6 @@
+dataflow,L0::SlowDown,L1::SlowDown,L2::SlowDown,bottleNeck
+flash-attention,1.0,1.80013,1.71123,1
+flat,1.0,1.0,1.0,0
+no-fuse,1.0,1.0,5.0,2
+pipeline,1.0,1.55005,2.58063,2
+tileflow,1.0,1.0,3.0,2

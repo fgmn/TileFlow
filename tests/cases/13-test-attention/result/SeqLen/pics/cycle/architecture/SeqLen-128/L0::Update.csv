@@ -1,0 +1,2 @@
+architecture,no-fuse,chimera,pipeline,flash-attention,flat,tileflow
+cloud-midBW,65536.0,49152.0,98304.0,65536.0,49152.0,65536.0

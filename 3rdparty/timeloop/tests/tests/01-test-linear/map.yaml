@@ -1,0 +1,10 @@
+mapping:
+  - target: MainMemory 
+    type: temporal 
+    factors: M=32 N=64 K=128
+    permutation: MNK 
+
+  - target: RegFile
+    type: temporal  
+    factors: M=16 N=8 K=4
+    permutation: MKN 

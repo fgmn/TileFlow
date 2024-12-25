@@ -1,0 +1,14 @@
+
+output: /tmp/tmpixeg_msx.csv
+verbose: 0
+macro: 
+  M: 512
+  N: 512
+  K: 64 
+  
+  KO: 2
+  MO: 16
+  NO: 4
+
+  SX: 16
+  SY: 16  

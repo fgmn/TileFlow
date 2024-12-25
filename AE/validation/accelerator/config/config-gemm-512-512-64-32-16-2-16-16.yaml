@@ -1,0 +1,14 @@
+
+output: /tmp/tmp_g2ljwms.csv
+verbose: 0
+macro: 
+  M: 512
+  N: 512
+  K: 64 
+  
+  KO: 2
+  MO: 32
+  NO: 16
+
+  SX: 16
+  SY: 16  

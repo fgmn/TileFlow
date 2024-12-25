@@ -1,0 +1,13 @@
+
+macro:
+  B: 1
+  H: 16
+  M: 256
+  N: 64
+  A: 64
+  L: 256        
+output: result/Standard/out/ViT_14-Large-tileflow-energy-cloud
+tileflow-mapper:
+  timeout: 1200
+  objective: energy
+verbose: 1

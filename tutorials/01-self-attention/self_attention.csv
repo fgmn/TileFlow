@@ -1,0 +1,100 @@
+metric,value
+Cycle,140288
+Energy,4.18771e+08
+MainMemory::Write::D, 0
+MainMemory::Fill::D, 0
+MainMemory::Update::D, 0
+MainMemory::Read::D, 131072
+MainMemory::Fill::E, 0
+MainMemory::Fill::C, 0
+MainMemory::Update::C, 0
+MainMemory::Read::C, 0
+MainMemory::SpatialUtil, 1
+MainMemory::SlowDown, 1
+MainMemory::Energy, 9.17504e+07
+MainMemory::Update::B, 0
+MainMemory::Update::E, 32768
+MainMemory::Accesses, 360448
+MainMemory::Write::E, 32768
+MainMemory::Fill, 0
+MainMemory::CapUtil, 0.25
+MainMemory::Write, 32768
+MainMemory::Fill::A, 0
+MainMemory::Read, 327680
+MainMemory::Update::A, 0
+MainMemory::Read::A, 32768
+MainMemory::Update, 32768
+MainMemory::Write::B, 0
+MainMemory::Write::A, 0
+MainMemory::Read::B, 131072
+MainMemory::Write::C, 0
+MainMemory::Fill::B, 0
+MainMemory::Read::E, 32768
+Cache::Write::D, 131072
+Cache::Fill::D, 131072
+Cache::Update::D, 0
+Cache::Read::D, 1.04858e+06
+Cache::Fill::E, 32768
+Cache::Fill::C, 0
+Cache::Update::C, 1.04858e+06
+Cache::Read::C, 1.31072e+06
+Cache::SpatialUtil, 1
+Cache::SlowDown, 1.11917
+Cache::Energy, 9.68186e+07
+Cache::Update::B, 0
+Cache::Update::E, 1.04858e+06
+Cache::Accesses, 6.91405e+06
+Cache::Write::E, 1.08134e+06
+Cache::Fill, 327680
+Cache::CapUtil, 0.8125
+Cache::Write, 2.42483e+06
+Cache::Fill::A, 32768
+Cache::Read, 4.48922e+06
+Cache::Update::A, 0
+Cache::Read::A, 32768
+Cache::Update, 2.09715e+06
+Cache::Write::B, 131072
+Cache::Write::A, 32768
+Cache::Read::B, 1.04858e+06
+Cache::Write::C, 1.04858e+06
+Cache::Fill::B, 131072
+Cache::Read::E, 1.04858e+06
+mac::Energy, 3.35544e+07
+mac::Flops, 3.35544e+07
+RegFile::Write::D, 65536
+RegFile::Fill::D, 65536
+RegFile::Update::D, 0
+RegFile::Read::D, 65536
+RegFile::Fill::E, 65536
+RegFile::Fill::C, 66560
+RegFile::Update::C, 65536
+RegFile::Read::C, 131072
+RegFile::SpatialUtil, 1
+RegFile::SlowDown, 2
+RegFile::Energy, 1.96647e+08
+RegFile::Update::B, 0
+RegFile::Update::E, 65536
+RegFile::Accesses, 2.01622e+08
+RegFile::Write::E, 131072
+RegFile::Fill, 263296
+RegFile::CapUtil, 1
+RegFile::Write, 394368
+RegFile::Fill::A, 128
+RegFile::Read, 393216
+RegFile::Update::A, 0
+RegFile::Read::A, 65536
+RegFile::Update, 131072
+RegFile::Write::B, 65536
+RegFile::Write::A, 128
+RegFile::Read::B, 65536
+RegFile::Write::C, 132096
+RegFile::Fill::B, 65536
+RegFile::Read::E, 65536
+MEM::RegFile,1
+MEM::Cache,0.65625
+MEM::RegFile,1
+MEM::Cache,0.8125
+MEM::MainMemory,0.25
+SPATIAL::Cache,1
+SPATIAL::Cache,1
+SPATIAL::MainMemory,1

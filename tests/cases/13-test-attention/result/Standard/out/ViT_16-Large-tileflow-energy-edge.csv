@@ -1,0 +1,100 @@
+metric,value
+Cycle,1048576
+Energy,7.01244e+08
+L2::Write::V, 0
+L2::Update::V, 0
+L2::Fill::V, 0
+L2::Read::V, 196608
+L2::Fill::O, 0
+L2::Read, 786432
+L2::Read::K, 196608
+L2::Fill::C, 0
+L2::Write::O, 196608
+L2::Read::C, 0
+L2::SpatialUtil, 1
+L2::Energy, 1.96608e+08
+L2::Update::K, 0
+L2::SlowDown, 1
+L2::Update, 196608
+L2::Fill::K, 0
+L2::Fill, 0
+L2::Write::K, 0
+L2::Fill::Q, 0
+L2::Write::Q, 0
+L2::Write::C, 0
+L2::Read::O, 196608
+L2::Write, 196608
+L2::Accesses, 983040
+L2::Update::Q, 0
+L2::CapUtil, 9.6e-07
+L2::Read::Q, 196608
+L2::Update::C, 0
+L2::Update::O, 196608
+L1::Write::V, 49152
+L1::Update::V, 0
+L1::Fill::V, 49152
+L1::Read::V, 6.29146e+06
+L1::Fill::O, 49152
+L1::Read, 1.88744e+07
+L1::Read::K, 6.29146e+06
+L1::Fill::C, 0
+L1::Write::O, 3.19488e+06
+L1::Read::C, 0
+L1::SpatialUtil, 0.25
+L1::Energy, 9.31092e+07
+L1::Update::K, 0
+L1::SlowDown, 1
+L1::Update, 3.14573e+06
+L1::Fill::K, 49152
+L1::Fill, 196608
+L1::Write::K, 49152
+L1::Fill::Q, 49152
+L1::Write::Q, 49152
+L1::Write::C, 0
+L1::Read::O, 3.14573e+06
+L1::Write, 3.34234e+06
+L1::Accesses, 2.22167e+07
+L1::Update::Q, 0
+L1::CapUtil, 0.199219
+L1::Read::Q, 3.14573e+06
+L1::Update::C, 0
+L1::Update::O, 3.14573e+06
+mac::Energy, 7.54975e+07
+mac::Flops, 7.54975e+07
+L0::Write::V, 147450
+L0::Update::V, 0
+L0::Fill::V, 147450
+L0::Read::V, 524288
+L0::Fill::O, 147450
+L0::Read, 3.14573e+06
+L0::Read::K, 524288
+L0::Fill::C, 0
+L0::Write::O, 671738
+L0::Read::C, 1.04858e+06
+L0::SpatialUtil, 0.0703125
+L0::Energy, 3.3603e+08
+L0::Update::K, 0
+L0::SlowDown, 1
+L0::Update, 1.04858e+06
+L0::Fill::K, 147450
+L0::Fill, 589800
+L0::Write::K, 147450
+L0::Fill::Q, 147450
+L0::Write::Q, 147450
+L0::Write::C, 524288
+L0::Read::O, 524288
+L0::Write, 1.63838e+06
+L0::Accesses, 3.44455e+08
+L0::Update::Q, 0
+L0::CapUtil, 0.0351562
+L0::Read::Q, 524288
+L0::Update::C, 524288
+L0::Update::O, 524288
+MEM::L0,0.5
+MEM::L0,0.5
+MEM::L1,0.796875
+MEM::L2,9.6e-07
+SPATIAL::L1,0.28125
+SPATIAL::L1,0.28125
+SPATIAL::L1,0.00390625
+SPATIAL::L2,0.25

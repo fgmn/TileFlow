@@ -1,0 +1,14 @@
+
+output: /tmp/tmp1ak5izcg.csv
+verbose: 0
+macro: 
+  M: 768
+  N: 384
+  K: 48 
+  
+  KO: 3
+  MO: 48
+  NO: 24
+
+  SX: 16
+  SY: 16  

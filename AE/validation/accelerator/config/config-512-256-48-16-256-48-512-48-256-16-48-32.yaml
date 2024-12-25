@@ -1,0 +1,19 @@
+
+output: /tmp/_tmp-41.csv
+verbose: 0
+macro: 
+  M: 512
+  N: 48
+  K: 48 
+  L: 256
+  
+  KO: 1
+  KM: 3
+  LO: 8
+  LM: 2
+  MO: 32
+  MM: 1
+  NO: 1
+
+  SX: 16
+  SY: 16   

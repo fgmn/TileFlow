@@ -1,0 +1,14 @@
+
+output: /tmp/tmphp_0x773.csv
+verbose: 0
+macro: 
+  M: 768
+  N: 48
+  K: 384 
+  
+  KO: 4
+  MO: 24
+  NO: 1
+
+  SX: 16
+  SY: 16  
